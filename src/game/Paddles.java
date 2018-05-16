@@ -9,3 +9,4 @@ public class Paddles {
 	private final int width;
 	private final int height;
 }
+jjj
