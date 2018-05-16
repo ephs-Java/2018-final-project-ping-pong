@@ -1,4 +1,4 @@
-package notes;
+package game;
 
 public class ball {
 private int x;
