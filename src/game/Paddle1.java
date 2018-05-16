@@ -1,6 +1,6 @@
 package game;
 
-public class Paddles {
+public class Paddle1 {
 
 	private int paddleposx;
 	private int paddleposy;
@@ -8,5 +8,14 @@ public class Paddles {
 	private final int startypos;
 	private final int width;
 	private final int height;
-}
-jjj
+	
+	public Paddle1(){
+		this.paddleposx = 
+		this.paddleposy = 
+		this.startxpos = 
+		this.startypos =
+		this.width = 2;
+		this.height = 7;
+	}
+	
+	}
